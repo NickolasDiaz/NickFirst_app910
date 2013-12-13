@@ -1,1 +1,0 @@
-Your first rails app. From a person, elbows deep in DC Comics.
